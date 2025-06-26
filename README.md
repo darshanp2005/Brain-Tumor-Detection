@@ -3,6 +3,9 @@
 
 Brain tumors arise when abnormal cells grow uncontrollably within the brain or its surrounding structures. These tumors can be **benign (non-cancerous)** or **malignant (cancerous)** and may originate in the brain (primary tumors) or spread from other parts of the body (secondary/metastatic tumors).
 
+EX= 
+![alt text](image.png)
+
 ### 🧬 Biological Basis
 Brain tumors develop due to genetic mutations affecting normal cell behavior. These changes lead to:
 
@@ -32,6 +35,8 @@ After detection through imaging, diagnosis is confirmed with:
 - **Biopsy**: Removal of a sample of tumor tissue
 - **Microscopic examination**: Determines tumor **type** and **grade** (Grade 1 to 4) based on cell appearance and growth behavior
 
+#### 4. Detection Example
+![alt text](image-1.png)
 ---
 
 > 🧠 **Note**: This project aims to assist in the early and accurate detection of brain tumors using YOLOv12 latest model of YOLO released in february 2025.
